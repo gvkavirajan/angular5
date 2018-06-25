@@ -1,0 +1,35 @@
+[
+	{
+        "ceoName":"James",
+        "companyName":"OFS",
+        "website":"http://ofs.com",
+        "address":"Ascendas",
+        "city":"Chennai",
+        "state":"Tamilnadu",
+        "country":"India",
+        "pinCode":"600113",
+        "telephone":"04423745001"
+	},
+	{
+        "ceoName":"Moorthy",
+        "companyName":"TCS",
+        "website":"http://tcs.org",
+        "address":"TCS 6th Block, TCS nagar",
+        "city":"Chennai",
+        "state":"Tamilnadu",
+        "country":"India",
+        "pinCode":"600100",
+        "telephone":"04423742001"
+	},
+	{
+        "ceoName":"Francisco",
+        "companyName":"CTS",
+        "website":"http://cts.org",
+        "address":"SP Infocity",
+        "city":"Chennai",
+        "state":"Tamilnadu",
+        "country":"India",
+        "pinCode":"600500",
+        "telephone":"04423749000"
+	}
+]

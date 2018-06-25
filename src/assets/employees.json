@@ -1,0 +1,72 @@
+[
+	{
+		"companyname": "OFS",
+		"employeeName": "Kavirajan",
+		"gender": "Male",
+		"joiningdate": "11-Aug-2014",
+		"designation": "Software Engineer",
+		"fathername": "G.Vijayakumar",
+		"address": "Thiruvanmaiyur",
+		"city": "Chennai",
+		"state": "Tamilnadu",
+		"country": "India",
+		"pincode": "600113",
+		"mobile": "9659651228"
+	},
+	{
+		"companyname": "TCS",
+		"employeeName": "Manivannan",
+		"gender": "Male",
+		"joiningdate": "11-May-2017",
+		"designation": "Software Engineer",
+		"fathername": "Subramanian",
+		"address": "Thiruvanmaiyur",
+		"city": "Chennai",
+		"state": "Tamilnadu",
+		"country": "India",
+		"pincode": "600313",
+		"mobile": "9842090823"
+	},
+	{
+		"companyname": "OFS",
+		"employeeName": "HariHaran",
+		"gender": "Male",
+		"joiningdate": "11-Jun-2013",
+		"designation": "SeniorSoftware Engineer",
+		"fathername": "Nagarajan",
+		"address": "Madipakkam",
+		"city": "Chennai",
+		"state": "Tamilnadu",
+		"country": "India",
+		"pincode": "600001",
+		"mobile": "9940460430"
+	},
+	{
+		"companyname": "OFS",
+		"employeeName": "Jayaseelan",
+		"gender": "Male",
+		"joiningdate": "11-Aug-2014",
+		"designation": "Software Engineer",
+		"fathername": "K.Selvaraj",
+		"address": "Nungambakkam",
+		"city": "Chennai",
+		"state": "Tamilnadu",
+		"country": "India",
+		"pincode": "600094",
+		"mobile": "9790787381"
+	},
+	{
+		"companyname": "OFS",
+		"employeeName": "Kavirajan",
+		"gender": "Male",
+		"joiningdate": "11-Aug-2014",
+		"designation": "Software Engineer",
+		"fathername": "G.Vijayakumar",
+		"address": "Thiruvanmaiyur",
+		"city": "Chennai",
+		"state": "Tamilnadu",
+		"country": "India",
+		"pincode": "600113",
+		"mobile": "9659651228"
+	}
+]

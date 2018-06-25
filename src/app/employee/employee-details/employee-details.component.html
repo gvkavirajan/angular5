@@ -1,0 +1,29 @@
+<!-- <h4>{{title3}}</h4> -->
+<div *ngIf="employee">
+    <div>
+        <label>Id:
+            <!-- <input [(ngModel)]="employ.id" placeholder="id"> -->
+            {{employ.Empid}}
+        </label>
+    </div>
+    <div>
+        <label>Name:
+            <input [(ngModel)]="employ.Empname" placeholder="name">
+        </label>
+    </div>
+    <div>
+        <label>Experience:
+            <input [(ngModel)]="employ.Empexperience" placeholder="experience">
+        </label>
+    </div>
+    <div>
+        <label>Project:
+            <input [(ngModel)]="employ.Empproject" placeholder="project">
+        </label>
+    </div>
+    <div>
+        <label>Technology:
+            <input [(ngModel)]="employ.Emptechnology" placeholder="technology">
+        </label>
+    </div>
+</div>

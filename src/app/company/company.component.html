@@ -1,0 +1,27 @@
+<div>
+    <table style="width: 100%">
+        <tr>
+            <th>CEO Name</th>
+            <th>Company Name</th>
+            <th>Website</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Country</th>
+            <th>Pincode</th>
+            <th>Telephone</th>
+        </tr>
+        <tr *ngFor="let cmp of companies" (click)="onSelect(cmp)">
+            <td>{{cmp.ceoName}}</td>
+            <td>{{cmp.companyName}}</td>
+            <td>{{cmp.website}}</td>
+            <td>{{cmp.address}}</td>
+            <td>{{cmp.city}}</td>
+            <td>{{cmp.state}}</td>
+            <td>{{cmp.country}}</td>
+            <td>{{cmp.pinCode}}</td>
+            <td>{{cmp.telephone}}</td>
+        </tr>
+    </table>
+    <!-- <app-cmp-details [companies]="selectedCompany"></app-cmp-details> -->
+</div>

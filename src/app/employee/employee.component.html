@@ -1,0 +1,50 @@
+<!-- <div style="text-align:center">
+    <h2>Welcome to {{empComponent}}</h2>
+    <table style="width: 100%">
+        <tr>
+            <th>EmpId</th>
+            <th>EmpName</th>
+            <th>EmpExperience</th>
+        </tr>
+        <tr *ngFor="let emp of employees" (click)="onSelect(emp)">
+            <td>{{emp.Empid}}</td>
+            <td>{{emp.Empname}}</td>
+            <td>{{emp.Empexperience}}</td>
+        </tr>
+    </table>
+    <app-emp-details [employ]="selectedEmployee"></app-emp-details>
+</div> -->
+
+<div>
+    <table style="width: 100%">
+        <tr>
+            <th>Company Name</th>
+            <th>Employee Name</th>
+            <th>Gender</th>
+            <th>Joining Date</th>
+            <th>Designation</th>
+            <th>Father's Name</th>
+            <th>Address</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Country</th>
+            <th>Pin Code</th>
+            <th>Mobile</th>
+        </tr>
+        <tr *ngFor="let emp of employees" (click)="onSelect(emp)">
+            <td>{{emp.companyname}}</td>
+            <td>{{emp.employeeName}}</td>
+            <td>{{emp.gender}}</td>
+            <td>{{emp.joiningdate}}</td>
+            <td>{{emp.designation}}</td>
+            <td>{{emp.fathername}}</td>
+            <td>{{emp.address}}</td>
+            <td>{{emp.city}}</td>
+            <td>{{emp.state}}</td>
+            <td>{{emp.country}}</td>
+            <td>{{emp.pincode}}</td>
+            <td>{{emp.mobile}}</td>
+        </tr>
+    </table>
+    <!-- <app-emp-details [employee]="selectedEmployee"></app-emp-details> -->
+</div>
