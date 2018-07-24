@@ -1,0 +1,22 @@
+.form-group {
+    padding: 16px;
+}
+
+.form-control{
+    margin-left:10px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button {
+    padding: 3px 0px; 
+    margin: 8px 0;
+    cursor: pointer;
+    width: 176px;
+}
+
+/* form {  
+    background-color: #AF5D60;
+    } */

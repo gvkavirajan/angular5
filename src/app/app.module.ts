@@ -8,6 +8,7 @@ import { CompanyComponent } from './company/company.component';
 import { EmployeeComponent } from './employee/employee.component';
 import { LoginComponent } from './login/login.component';
 import { RouterModule, Routes } from '@angular/router'
+//import { ReactiveFormsModule }    from '@angular/forms'; //When import then only use FormBuilder,FormGroup
 
 const appRoutes: Routes = [
   {path: 'company', component: CompanyComponent},
